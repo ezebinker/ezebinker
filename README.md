@@ -7,7 +7,7 @@
 
 - 👨🏻‍💻 Soy Licenciado en IT recibido en **Universidad de Palermo**
 
-- 💬 Preguntame lo que necesites sobre **.NET MVC, Desarrollo Backend en C# y Java, Frontend utilizando React + Bootstrap**
+- 💬 Preguntame lo que necesites sobre **Desarrollo Backend en .NET y Java, Frontend utilizando React + Bootstrap**
 
 - 📫 Mi casilla de correo **ezebinker@gmail.com**
 
