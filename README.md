@@ -1,6 +1,5 @@
 <h1 align="center">Hola 👋, soy Ezequiel Binker</h1>
 <h3 align="center">Licenciado en IT. Docente de Programación y Desarrollador Freelance</h3>
-<br>
 
 - 🔭 Trabajo como **Docente en ORT Argentina**
 
