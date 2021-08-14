@@ -12,7 +12,7 @@
 
 - 📫 Mi casilla de correo: **[ezebinker@gmail.com](mailto:ezebinker@gmail.com)**
 
-- 📄 Conoce un poco más sobre mí: [Sitio Personal](https://binker.com.ar)
+- 📄 Conoce un poco más sobre mí: <a href="https://binker.com.ar" target="_blank">Sitio Personal</a>
 
 <h2 align="left">Contacto</h3>
 <p align="left">
