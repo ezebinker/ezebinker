@@ -1,8 +1,8 @@
 <h1 align="center">Hola 👋, soy Ezequiel Binker</h1>
-<h3 align="center">Licenciado en Sistemas. Docente de Programación y Desarrollador Freelance</h3>
+<h3 align="center">Licenciado en Sistemas. Profesor de Programación y Desarrollador Freelance</h3>
 <br>
 
-- 🔭 Trabajo como **Docente de nivel secundario y terciario en ORT Argentina**
+- 🔭 Trabajo como **Profesor de Programación en ORT Argentina**
 
 - 🌱 Estoy capacitándome en **React Native, MERN Stack y Desarrollo de Smart Contracts con Solidity**
 
