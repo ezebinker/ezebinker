@@ -4,7 +4,7 @@
 
 - 🔭 Trabajo como **Docente de nivel secundario y terciario en ORT Argentina**
 
-- 🌱 Estoy capacitándome en **React Native, MERN Stack y Blockchain**
+- 🌱 Estoy capacitándome en **React Native, MERN Stack y Desarrollo de Smart Contracts con Solidity**
 
 - 👨🏻‍💻 Soy Licenciado en IT recibido en **Universidad de Palermo**
 
