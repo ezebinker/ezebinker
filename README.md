@@ -1,14 +1,12 @@
 <h1 align="center">Hola 👋, soy Ezequiel Binker</h1>
-<h3 align="center">Licenciado en Sistemas. Profesor de Programación y Desarrollador Freelance</h3>
+<h3 align="center">Licenciado en Sistemas. Profesor de Programación y Desarrollador Full Stack Freelance</h3>
 <br>
 
-- 🔭 Trabajo como **Profesor de Programación en ORT Argentina**
+- 🔭 Trabajo como **Profesor de Programación en ORT Argentina y Desarrollador Full Stack Typescript**
 
 - 🌱 Estoy capacitándome en **React Native, MERN Stack y Desarrollo de Smart Contracts con Solidity**
 
-- 👨🏻‍💻 Soy Licenciado en IT recibido en **Universidad de Palermo**
-
-- 💬 Preguntame lo que necesites sobre **Desarrollo Backend en .NET y Frontend utilizando React + Bootstrap**
+- 👨🏻‍💻 Soy Licenciado en Sistemas recibido en **Universidad de Palermo**
 
 - 📫 Mi casilla de correo: **[ezebinker@gmail.com](mailto:ezebinker@gmail.com)**
 
