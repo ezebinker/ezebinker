@@ -1,8 +1,8 @@
 <h1 align="center">Hola 👋, soy Ezequiel Binker</h1>
-<h3 align="center">Licenciado en Sistemas. Profesor de Programación y Desarrollador Full Stack Freelance</h3>
+<h3 align="center">Licenciado en Sistemas. Programador Full Stack y Profesor de Programación</h3>
 <br>
 
-- 🔭 Trabajo como **Profesor de Programación en ORT Argentina y Desarrollador Full Stack Typescript**
+- 🔭 Trabajo como **Desarrollador Full Stack Typescript y Profesor de Programación en ORT Argentina**
 
 - 🌱 Me capacito constantemente en **MERN Stack, NestJS y Desarrollo de Smart Contracts con Solidity**
 
