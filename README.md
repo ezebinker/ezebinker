@@ -9,3 +9,5 @@
 - 📫 Mi casilla de correo: **[ezebinker@gmail.com](mailto:ezebinker@gmail.com)**
 
 - 📄 Conoce un poco más sobre mí: <a href="https://www.binker.com.ar" target="_blank">Sitio Personal</a>
+
+![ezebinker's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ezebinker&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
