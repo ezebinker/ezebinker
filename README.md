@@ -1,10 +1,10 @@
 <h1 align="center">Hola 👋, soy Ezequiel Binker</h1>
-<h3 align="center">Licenciado en Sistemas. Desarrollador Full Stack y Profesor de Programación</h3>
+<h3 align="center">Licenciado en Tecnologías de la Información. Desarrollador de Software y Profesor de Programación</h3>
 <br>
 
-- 🔭 Trabajo como **Desarrollador Full Stack independiente y Profesor de Programación**
+- 🔭 Trabajo como **Desarrollador de Software y Profesor de Programación**
 
-- 👨🏻‍💻 Soy Licenciado en Sistemas recibido en **Universidad de Palermo**
+- 👨🏻‍💻 Soy Licenciado en TI recibido en **Universidad de Palermo**
 
 - 📫 Mi casilla de correo: **[ezebinker@gmail.com](mailto:ezebinker@gmail.com)**
 
