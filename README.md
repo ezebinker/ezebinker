@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Ezequiel Binker</h1>
-<h3 align="center">Licenciado en Tecnologías de la Información. Desarrollador de Software y Profesor de Programación</h3>
+<h3 align="center">Licenciado en Tecnologías de la Información. <br>Desarrollador de Software y Profesor de Programación</h3>
 <br>
 
 - 🔭 Trabajo como **Desarrollador de Software y Profesor de Programación**
