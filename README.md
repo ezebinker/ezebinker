@@ -1,8 +1,8 @@
 <h1 align="center">Hola 👋, soy Ezequiel Binker</h1>
-<h3 align="center">Desarrollador de Software y Profesor de Programación</h3>
+<h3 align="center">Líder de Desarrollo de Software y Profesor de Programación</h3>
 <br>
 
-- 🔭 Trabajo como **Desarrollador de Software y Profesor de Programación**
+- 🔭 Trabajo como **Líder de Desarrollo de Software y Profesor de Programación**
 
 - 👨🏻‍💻 Soy Licenciado en TI recibido en **Universidad de Palermo**
 
